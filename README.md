@@ -18,6 +18,6 @@ Sou um desenvolvedor FUU=LL STACK com paixão por transformar ideias em realidad
 ## Linguagens e Ferramentas:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugenioboudaher&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="link do seu perfil do linkedin">
+<a href="[link do seu perfil do linkedin](https://www.linkedin.com/notifications/?filter=all)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
