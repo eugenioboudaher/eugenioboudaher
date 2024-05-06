@@ -1,7 +1,7 @@
 #Olá, eu sou Eugênio Boudaher Rocha
 
 ## Sobre Mim
-Sou um desenvolvedor FUU=LL STACK com paixão por transformar ideias em realidade usando código. Atualmente estou focado em HTML, CSS, Javascript e Python e sempre estou explorando novas tecnologias e tendências no mundo do desenvolvimento.
+Sou um desenvolvedor FULL STACK com paixão por transformar ideias em realidade usando código. Atualmente estou focado em HTML, CSS, Javascript e Python e sempre estou explorando novas tecnologias e tendências no mundo do desenvolvimento.
 
 - 
 - 🌱 Estou aprendendo Java
