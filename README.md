@@ -5,7 +5,7 @@ Sou um desenvolvedor FULL STACK com paixão por transformar ideias em realidade 
 
 
 - 👯 Estou procurando colaborar em projetos Front-end
-- 💬 Pergunte-me sobre soft skills e front-end
+- 💬 Pergunte-me sobre soft skills e FULL STACK
 - 📫 Como entrar em contato comigo: 85 98957 0528
 - ⚡ Curiosidade: Sou extremamente sociável e curioso com uma imensa vontade de aprender mais
 
